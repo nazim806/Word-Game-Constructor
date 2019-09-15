@@ -20,7 +20,7 @@ A function that takes a character as an argument and calls the guess function on
 Randomly selects a word and uses the Word constructor to store it
 Prompts the user for each guess and keeps track of the user’s remaining guesses
 
-![Word constructor Game](/images/word guess game.PNG)
+
 
 
 
