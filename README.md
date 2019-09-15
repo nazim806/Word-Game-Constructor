@@ -1,7 +1,6 @@
 # Word-Game-Constructor
 
-                                   **Instructtion**
-
+**Instruction**                                 
 The game receives user input using the inquirer or prompt npm packages.
 It has three basic js files.
 
